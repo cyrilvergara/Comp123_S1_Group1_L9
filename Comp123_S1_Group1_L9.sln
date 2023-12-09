@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comp123_S1_Group1_L6", "Comp123_S1_Group1_L6\Comp123_S1_Group1_L6\Comp123_S1_Group1_L6.csproj", "{0F5045E5-9873-48BE-9A92-1399F01DF706}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comp123_S1_Group1_L9", "Comp123_S1_Group1_L9\Comp123_S1_Group1_L9.csproj", "{F205B72A-3D9B-420D-A578-BD560AB00961}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F5045E5-9873-48BE-9A92-1399F01DF706}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F5045E5-9873-48BE-9A92-1399F01DF706}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F5045E5-9873-48BE-9A92-1399F01DF706}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F5045E5-9873-48BE-9A92-1399F01DF706}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F205B72A-3D9B-420D-A578-BD560AB00961}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F205B72A-3D9B-420D-A578-BD560AB00961}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F205B72A-3D9B-420D-A578-BD560AB00961}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F205B72A-3D9B-420D-A578-BD560AB00961}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2A5CB4C-52D7-49C2-B825-35C206144BCD}
+	EndGlobalSection
+EndGlobal
